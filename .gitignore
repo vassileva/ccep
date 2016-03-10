@@ -6,6 +6,9 @@ bin-release/
 # Other files and folders
 .settings/
 
+# Do not safe matlab backup scripts 
+.m~
+
 # Do not safe data files
 .mat
 
